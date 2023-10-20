@@ -8,16 +8,16 @@
 .selement h1 {
     padding-top: 5%;
     font-family: 'Times New Roman'; /* Choose a readable font-family */
-    font-size: 48px; /* Set the font size */
-    color: #333; /* Set text color to a dark shade of grey */
+    font-size: 48px;
+    color: #333; /* Text color to a dark shade of grey */
     text-align: center;
 }
 
 .selement h2 {
-    font-family: 'Times New Roman'; /* Choose a readable font-family */
-    font-size: 2vw; /* Set the font size */
+    font-family: 'Times New Roman'; /* A readable font-family */
+    font-size: 2vw;
     font-weight: lighter;
-    color: #333; /* Set text color to a dark shade of grey */
+    color: #333; /* Text color to a dark shade of grey */
     text-align: center;
 }
 

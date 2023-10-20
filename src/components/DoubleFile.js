@@ -23,6 +23,7 @@ const DoubleFile = (props) => {
                     </div>
     const elem1 = (props.img_pos === "left") ? img_elem : text_elem;
     const elem2 = (elem1 === img_elem) ? text_elem : img_elem;
+    
     return(
         <div className="doubleTop">
             <div className="doublespalt">

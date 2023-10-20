@@ -47,5 +47,21 @@
 @media (max-width: 768px) {
     .doublespalt {
         display: block;
+        align-items: center;
     }
+
+    .element h1 {
+        font-family: 'Times New Roman'; /* Choose a readable font-family */
+        font-size: 22px; /* Set the font size */
+        color: #333; /* Set text color to a dark shade of grey */
+        text-align: center; /* Center align the text */
+        letter-spacing: 2px; /* Add letter spacing between characters */
+        margin: 0; /* Remove default margin */
+        padding: 5px; /* Add some padding for breathing room */
+        border: 2px solid #666; /* Set a darker grey border */
+        border-radius: 10px; /* Optional: Round the corners */
+        background-color: #9e9d9d; /* Set a lighter grey background color */
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    
 }

@@ -18,7 +18,9 @@ const SingleFile = (props) => {
     const underTitle = props.underTitle;
     // Text
     const text = props.text;
-
+    /*
+    Returning the Elements as a text with header. 
+    **/
     return(
         <div className="singleTop">
             <div className="selement">
