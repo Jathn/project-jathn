@@ -1,0 +1,31 @@
+.singleTop {
+    margin-top: -3%;
+    background-color: grey;
+    padding-top: -3%;
+    margin-bottom: -3%;
+}
+
+.selement h1 {
+    padding-top: 5%;
+    font-family: 'Times New Roman'; /* Choose a readable font-family */
+    font-size: 48px; /* Set the font size */
+    color: #333; /* Set text color to a dark shade of grey */
+    text-align: center;
+}
+
+.selement h2 {
+    font-family: 'Times New Roman'; /* Choose a readable font-family */
+    font-size: 2vw; /* Set the font size */
+    font-weight: lighter;
+    color: #333; /* Set text color to a dark shade of grey */
+    text-align: center;
+}
+
+.selement p {
+   font-family: 'Times New Roman';
+    font-size: 1.5vw;
+    width: 50%;
+    margin-left: 25%;
+    color: #000;
+    text-align: center;
+} 
