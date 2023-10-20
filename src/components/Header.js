@@ -36,7 +36,7 @@ const Header = (props) => {
         };
     
         typeText();
-      }, []);
+      }, [message]);
 
     return(
         <div className="TopLevel">
