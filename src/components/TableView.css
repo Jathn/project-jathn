@@ -47,3 +47,28 @@
     margin: 20px 0;
     padding: 0 20px;
 }
+
+
+/* Mobile view */
+@media (max-width: 768px) {
+    /* View for different text, descending hierarchal order */
+    .tableTop {
+        margin-top: 0;
+        margin-bottom: -10%;
+    }
+    .elementList h2 {
+        font-size: 15px;
+    }
+    .elementList h3 {
+        font-size: 10px;
+    }
+    .elementList p {
+        width: 100%;
+        margin-left: -30%;
+        font-size: 2vw;
+    }
+    .telement {
+        box-shadow: none;
+    }
+
+}
