@@ -71,12 +71,14 @@ function App() {
   /* 
   Work experience
   **/
-  const title2 = "Work Experience";
-  const underTitle2 = "Restaurant Industry (Summer job, 5 years)"
-  const text2 = "During my five summers in the restaurant industry, starting at an ice cream stand, I cultivated a strong work ethic and the ability to handle diverse responsibilities. " +
-                "As a pizza cook, I honed my cooking skills and mastered the intricacies of kitchen logistics, requiring precision and quick thinking. " +
-                "Transitioning into roles as sales & bar staff, I developed exceptional customer service skills. " +
-                "This summer, I took on the role of Sales & Bar Manager, overseeing both front-of-house operations and the bar with a colleague."
+  const title2 = "Experience";
+  const underTitle2 = "Work, other projects and programming languages."
+  const text2 = "My language of choice for ML so far has been python, because of things like jupyter notebook and well implemented libraries. " +
+                "For web development I am familiar with both JS and python, using different frameworks such as those in the projects above. " +
+                "Apart from these, I also have familiarity with scala, C and C++. The knowledge of these have come from my studies at Aalto University. " +
+                "In C and C++ I now grasp the fundamentals of software development. In C I have mostly implemented simple programs, such as CLI projects. " +
+                "C++, I have also used to create arduino projects, the largest so far being a whack a mole game using a 3D printed box with large led push buttons. "  +
+                "Apart from this knowledge I have also gained a good understanding of workplaces by working summers in the restaurant business since I was 15."
   return (
     <div className="App">
       <Header title={title} message={welcome_msg} />
