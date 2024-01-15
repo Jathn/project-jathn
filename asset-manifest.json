@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/project-jathn/static/css/main.8761d40b.css",
-    "main.js": "/project-jathn/static/js/main.01e50ff1.js",
+    "main.css": "/project-jathn/static/css/main.8ab88635.css",
+    "main.js": "/project-jathn/static/js/main.b9d6c231.js",
     "static/media/ML.png": "/project-jathn/static/media/ML.def700163e4bd8f66574.png",
     "static/media/ME.jpg": "/project-jathn/static/media/ME.28ec4bedf1eef8db5c86.jpg",
     "static/media/FS.png": "/project-jathn/static/media/FS.10b096a1c3193da9de40.png",
     "index.html": "/project-jathn/index.html",
-    "main.8761d40b.css.map": "/project-jathn/static/css/main.8761d40b.css.map",
-    "main.01e50ff1.js.map": "/project-jathn/static/js/main.01e50ff1.js.map"
+    "main.8ab88635.css.map": "/project-jathn/static/css/main.8ab88635.css.map",
+    "main.b9d6c231.js.map": "/project-jathn/static/js/main.b9d6c231.js.map"
   },
   "entrypoints": [
-    "static/css/main.8761d40b.css",
-    "static/js/main.01e50ff1.js"
+    "static/css/main.8ab88635.css",
+    "static/js/main.b9d6c231.js"
   ]
 }
