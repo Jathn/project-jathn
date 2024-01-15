@@ -16,7 +16,7 @@ function App() {
   **/
   const image1 = require("./pics/ME.jpg");
   const title1 = "Jonathan Ramstedt";
-  const text1 = "20-year-old student, originally from Turku, grew up in Raseborg, and currently pursuing my studies at Aalto University. " +
+  const text1 = "21-year-old student, originally from Turku, grew up in Raseborg, and currently pursuing my studies at Aalto University. " +
                 "My academic focus is on automation and robotics, and I have a deep-seated passion for coding. " +
                 "I'm driven by innovation and excited to contribute my skills and knowledge to the world of Technology.";
   /* 
@@ -44,7 +44,7 @@ function App() {
                       /* 
                       Project 1
                       **/
-                      ["Car Dealership Website (template)", 
+                      ["Car Dealership Website", 
                       "Handles car dealers and their cars from databases. User authentication system for review posting.", 
                       "Django for main back and front end, Cloud NLP AI API, Flask and Node for local servers", 
                       "https://github.com/Jathn/agfzb-CloudAppDevelopment_Capstone"],
@@ -66,7 +66,9 @@ function App() {
                       Project 4
                       **/
                       ["Jammming",
-                      "A front-end application for making your own website. Handles requests to the spotify API.", "React", "https://github.com/Jathn/Jammming"]
+                      "A front-end application for playlist creation. Handles requests to the spotify API.", 
+                      "React", 
+                      "https://github.com/Jathn/Jammming"],
                     ]
   /* 
   Work experience
