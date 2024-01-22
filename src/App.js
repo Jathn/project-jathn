@@ -59,9 +59,9 @@ function App() {
                       Project 3 
                       **/
                       ["Fake News Classification",
-                      "A detailed Project where the truth value of news was classified with ML. Handled a dataset with 40,000 instances to get a satisfactory result. " + 
-                      "Not publicly available as it was a study related project.",
-                      "pandas, MatPlotLib, scikit-learn, NLP with nltk library."],
+                      "A detailed Project where the truth value of news was classified with ML. Handled a dataset with 40,000 instances to get a satisfactory result. ",
+                      "pandas, MatPlotLib, scikit-learn, NLP with nltk library.",
+                      "https://github.com/Jathn/fakenews_detector/"],
                       /*
                       Project 4
                       **/
