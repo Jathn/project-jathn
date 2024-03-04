@@ -1,7 +1,8 @@
 .tableTop {
     background-color: grey;
-    margin-top: -2%;
-    margin-bottom: 2%;
+    padding-bottom: 1%;
+    padding-right: 4%;
+    padding-left: 2%;
 }
 
 .elementList h1 {
@@ -27,9 +28,12 @@
 }
 
 .elementList ul {
+    background-color: grey;
     display: flex;
     flex-wrap: wrap;
+    overflow-x: auto;
     justify-content: space-between;
+
 }
 
 .elementList li {
@@ -42,7 +46,6 @@
     width: 60%;
     height: 33%;
     border-radius: 5%;
-    margin-bottom: 10px;
 }
 
 .telement {
@@ -53,6 +56,7 @@
     width: 20vw;
     border-left: 2px 2px white;
 }
+
 .telement p {
     font-family: 'Times New Roman';
     font-size: 1.5vw;
